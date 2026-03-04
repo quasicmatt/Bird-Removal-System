@@ -1,2 +1,4 @@
 code for usb test was grabbed from:
 https://youtu.be/NHwMJZwRo7k
+and 
+https://www.youtube.com/watch?v=mUF9xjDtFfY&list=PLEB5F4gTNK68IlRIJtcJ_2cW4dSdmreTw&index=2
