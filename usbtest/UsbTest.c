@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "pico/stdlib.h"
+void led_off(int pin);
+void led_on(int pin);
 
 int main(){
     //Initialise I/O
@@ -18,17 +20,25 @@ int main(){
         userInput = getchar();
 
         if(userInput == '1'){
-            // Turn On LED
-            gpio_put(25, 1); // Set pin 25 to high
-            printf("LED switched on!\n");
+            led_on(25);
         }
         else if(userInput == '0'){
-            // Turn Off LED
-            gpio_put(25, 0); // Set pin 25 to high.
-            printf("LED switched off!\n");
+           led_off(25);
         }
         else{
             printf("Invalid Input!\n");
         }
     }
+}
+
+void led_off(int pin){
+     // Turn Off LED
+            gpio_put(pin, 0); // Set pin 25 to high.
+            printf("LED switched off!\n");
+}
+
+void led_on(int pin){
+     // Turn Off LED
+            gpio_put(pin, 0); // Set pin 25 to high.
+            printf("LED switched off!\n");
 }

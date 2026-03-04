@@ -2104,8 +2104,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-ncw8du"
-      binary: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-ncw8du"
+      source: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-gt0dvm"
+      binary: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-gt0dvm"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
@@ -2115,28 +2115,28 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-ncw8du'
+        Change Dir: 'C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-gt0dvm'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_640de\\fast
-        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX86\\x86\\nmake.exe"  -f CMakeFiles\\cmTC_640de.dir\\build.make /nologo - CMakeFiles\\cmTC_640de.dir\\build
-        Building C object CMakeFiles/cmTC_640de.dir/CMakeCCompilerABI.c.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_640de.dir\\CMakeCCompilerABI.c.obj.d --working-dir=C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-ncw8du --filter-prefix="Note: including file: " -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe @C:\\Users\\matts\\AppData\\Local\\Temp\\nm31A9.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_7d13c\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX86\\x86\\nmake.exe"  -f CMakeFiles\\cmTC_7d13c.dir\\build.make /nologo - CMakeFiles\\cmTC_7d13c.dir\\build
+        Building C object CMakeFiles/cmTC_7d13c.dir/CMakeCCompilerABI.c.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_7d13c.dir\\CMakeCCompilerABI.c.obj.d --working-dir=C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-gt0dvm --filter-prefix="Note: including file: " -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe @C:\\Users\\matts\\AppData\\Local\\Temp\\nm4109.tmp
         CMakeCCompilerABI.c
-        Linking C executable cmTC_640de.exe
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_640de.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe --manifests -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_640de.dir\\objects1.rsp @C:\\Users\\matts\\AppData\\Local\\Temp\\nm31F8.tmp
+        Linking C executable cmTC_7d13c.exe
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_7d13c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe --manifests -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_7d13c.dir\\objects1.rsp @C:\\Users\\matts\\AppData\\Local\\Temp\\nm4149.tmp
         Visual Studio Incremental Link with embedded manifests
-        Create CMakeFiles\\cmTC_640de.dir/manifest.rc
-        Create empty: CMakeFiles\\cmTC_640de.dir/embed.manifest
+        Create CMakeFiles\\cmTC_7d13c.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_7d13c.dir/embed.manifest
         RC Pass 1:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_640de.dir/manifest.res CMakeFiles\\cmTC_640de.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_7d13c.dir/manifest.res CMakeFiles\\cmTC_7d13c.dir/manifest.rc
         LINK Pass 1:
-        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_640de.dir\\objects1.rsp /out:cmTC_640de.exe /implib:cmTC_640de.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-ncw8du\\cmTC_640de.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_640de.dir/intermediate.manifest CMakeFiles\\cmTC_640de.dir/manifest.res
+        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_7d13c.dir\\objects1.rsp /out:cmTC_7d13c.exe /implib:cmTC_7d13c.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-gt0dvm\\cmTC_7d13c.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7d13c.dir/intermediate.manifest CMakeFiles\\cmTC_7d13c.dir/manifest.res
         MT:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe /nologo /manifest CMakeFiles\\cmTC_640de.dir/intermediate.manifest /out:CMakeFiles\\cmTC_640de.dir/embed.manifest /notify_update
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe /nologo /manifest CMakeFiles\\cmTC_7d13c.dir/intermediate.manifest /out:CMakeFiles\\cmTC_7d13c.dir/embed.manifest /notify_update
         RC Pass 2:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_640de.dir/manifest.res CMakeFiles\\cmTC_640de.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_7d13c.dir/manifest.res CMakeFiles\\cmTC_7d13c.dir/manifest.rc
         FINAL LINK:
-        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_640de.dir\\objects1.rsp /out:cmTC_640de.exe /implib:cmTC_640de.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-ncw8du\\cmTC_640de.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_640de.dir/intermediate.manifest CMakeFiles\\cmTC_640de.dir/manifest.res
+        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_7d13c.dir\\objects1.rsp /out:cmTC_7d13c.exe /implib:cmTC_7d13c.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-gt0dvm\\cmTC_7d13c.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7d13c.dir/intermediate.manifest CMakeFiles\\cmTC_7d13c.dir/manifest.res
         
       exitCode: 0
   -
@@ -2176,8 +2176,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-qtj105"
-      binary: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-qtj105"
+      source: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-4yk7wl"
+      binary: "C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-4yk7wl"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -2188,28 +2188,28 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-qtj105'
+        Change Dir: 'C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/CMakeScratch/TryCompile-4yk7wl'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_7b922\\fast
-        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX86\\x86\\nmake.exe"  -f CMakeFiles\\cmTC_7b922.dir\\build.make /nologo - CMakeFiles\\cmTC_7b922.dir\\build
-        Building CXX object CMakeFiles/cmTC_7b922.dir/CMakeCXXCompilerABI.cpp.obj
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_7b922.dir\\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-qtj105 --filter-prefix="Note: including file: " -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe @C:\\Users\\matts\\AppData\\Local\\Temp\\nm33CB.tmp
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 nmake -f Makefile /nologo cmTC_6f801\\fast
+        	"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX86\\x86\\nmake.exe"  -f CMakeFiles\\cmTC_6f801.dir\\build.make /nologo - CMakeFiles\\cmTC_6f801.dir\\build
+        Building CXX object CMakeFiles/cmTC_6f801.dir/CMakeCXXCompilerABI.cpp.obj
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\\cmTC_6f801.dir\\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-4yk7wl --filter-prefix="Note: including file: " -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe @C:\\Users\\matts\\AppData\\Local\\Temp\\nm431C.tmp
         CMakeCXXCompilerABI.cpp
-        Linking CXX executable cmTC_7b922.exe
-        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_7b922.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe --manifests -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_7b922.dir\\objects1.rsp @C:\\Users\\matts\\AppData\\Local\\Temp\\nm341B.tmp
+        Linking CXX executable cmTC_6f801.exe
+        	"C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1950 --intdir=CMakeFiles\\cmTC_6f801.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe --manifests -- C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_6f801.dir\\objects1.rsp @C:\\Users\\matts\\AppData\\Local\\Temp\\nm436B.tmp
         Visual Studio Incremental Link with embedded manifests
-        Create CMakeFiles\\cmTC_7b922.dir/manifest.rc
-        Create empty: CMakeFiles\\cmTC_7b922.dir/embed.manifest
+        Create CMakeFiles\\cmTC_6f801.dir/manifest.rc
+        Create empty: CMakeFiles\\cmTC_6f801.dir/embed.manifest
         RC Pass 1:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_7b922.dir/manifest.res CMakeFiles\\cmTC_7b922.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_6f801.dir/manifest.res CMakeFiles\\cmTC_6f801.dir/manifest.rc
         LINK Pass 1:
-        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_7b922.dir\\objects1.rsp /out:cmTC_7b922.exe /implib:cmTC_7b922.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-qtj105\\cmTC_7b922.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7b922.dir/intermediate.manifest CMakeFiles\\cmTC_7b922.dir/manifest.res
+        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_6f801.dir\\objects1.rsp /out:cmTC_6f801.exe /implib:cmTC_6f801.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-4yk7wl\\cmTC_6f801.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_6f801.dir/intermediate.manifest CMakeFiles\\cmTC_6f801.dir/manifest.res
         MT:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe /nologo /manifest CMakeFiles\\cmTC_7b922.dir/intermediate.manifest /out:CMakeFiles\\cmTC_7b922.dir/embed.manifest /notify_update
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\mt.exe /nologo /manifest CMakeFiles\\cmTC_6f801.dir/intermediate.manifest /out:CMakeFiles\\cmTC_6f801.dir/embed.manifest /notify_update
         RC Pass 2:
-        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_7b922.dir/manifest.res CMakeFiles\\cmTC_7b922.dir/manifest.rc
+        C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x86\\rc.exe /fo CMakeFiles\\cmTC_6f801.dir/manifest.res CMakeFiles\\cmTC_6f801.dir/manifest.rc
         FINAL LINK:
-        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_7b922.dir\\objects1.rsp /out:cmTC_7b922.exe /implib:cmTC_7b922.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-qtj105\\cmTC_7b922.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7b922.dir/intermediate.manifest CMakeFiles\\cmTC_7b922.dir/manifest.res
+        C:\\PROGRA~2\\MIB055~1\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\link.exe /nologo @CMakeFiles\\cmTC_6f801.dir\\objects1.rsp /out:cmTC_6f801.exe /implib:cmTC_6f801.lib /pdb:C:\\Users\\matts\\Desktop\\pico\\Bird-Removal-System\\usbtest\\build\\_deps\\picotool-build\\enc_bootloader_mbedtls\\CMakeFiles\\CMakeScratch\\TryCompile-4yk7wl\\cmTC_6f801.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_6f801.dir/intermediate.manifest CMakeFiles\\cmTC_6f801.dir/manifest.res
         
       exitCode: 0
   -
