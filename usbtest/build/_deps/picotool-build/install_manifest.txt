@@ -1,0 +1,7 @@
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/picotool.exe
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/picotoolTargets.cmake
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/picotoolConfig.cmake
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/picotoolConfigVersion.cmake
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/enc_bootloader.elf
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/_deps/picotool/enc_bootloader_mbedtls.elf

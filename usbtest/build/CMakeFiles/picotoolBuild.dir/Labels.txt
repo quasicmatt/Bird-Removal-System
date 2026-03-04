@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/picotoolBuild
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/picotoolBuild.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/picotoolBuild-complete.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
