@@ -16,13 +16,9 @@
 			"pico_add_extra_outputs",
 			"target_link_libraries",
 			"pico_define_boot_stage2",
-			"add_dependencies",
-			"find_package",
-			"pico_init_picotool",
-			"picotool_postprocess_binary",
 			"add_custom_command",
-			"pico_add_dis_output",
 			"pico_add_uf2_output",
+			"pico_add_dis_output",
 			"target_compile_definitions"
 		],
 		"files" : 
@@ -31,7 +27,6 @@
 			"C:/Users/matts/Desktop/pico/Bird-Removal-System/pico-sdk/src/CMakeLists.txt",
 			"C:/Users/matts/Desktop/pico/Bird-Removal-System/pico-sdk/src/cmake/on_device.cmake",
 			"C:/Users/matts/Desktop/pico/Bird-Removal-System/pico-sdk/src/rp2040/boot_stage2/CMakeLists.txt",
-			"C:/Users/matts/Desktop/pico/Bird-Removal-System/pico-sdk/tools/Findpicotool.cmake",
 			"C:/Users/matts/Desktop/pico/Bird-Removal-System/pico-sdk/tools/CMakeLists.txt"
 		],
 		"nodes" : 
@@ -85,59 +80,31 @@
 				"parent" : 7
 			},
 			{
-				"command" : 9,
-				"file" : 2,
-				"line" : 81,
-				"parent" : 2
-			},
-			{
-				"command" : 8,
-				"file" : 5,
-				"line" : 688,
-				"parent" : 9
-			},
-			{
 				"command" : 7,
-				"file" : 5,
-				"line" : 168,
-				"parent" : 10
-			},
-			{
-				"file" : 4,
-				"parent" : 11
-			},
-			{
-				"command" : 6,
-				"file" : 4,
-				"line" : 90,
-				"parent" : 12
-			},
-			{
-				"command" : 11,
-				"file" : 2,
-				"line" : 76,
-				"parent" : 2
-			},
-			{
-				"command" : 10,
-				"file" : 2,
-				"line" : 60,
-				"parent" : 14
-			},
-			{
-				"command" : 12,
 				"file" : 2,
 				"line" : 111,
 				"parent" : 2
 			},
 			{
-				"command" : 10,
-				"file" : 5,
+				"command" : 6,
+				"file" : 4,
 				"line" : 616,
-				"parent" : 16
+				"parent" : 9
 			},
 			{
-				"command" : 13,
+				"command" : 8,
+				"file" : 2,
+				"line" : 76,
+				"parent" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 60,
+				"parent" : 11
+			},
+			{
+				"command" : 9,
 				"file" : 2,
 				"line" : 93,
 				"parent" : 2
@@ -404,7 +371,7 @@
 					"define" : "PICO_RP2040_USB_DEVICE_UFRAME_FIX=1"
 				},
 				{
-					"backtrace" : 18,
+					"backtrace" : 13,
 					"define" : "PICO_TARGET_NAME=\"UsbTest\""
 				},
 				{
@@ -1029,7 +996,7 @@
 					"define" : "PICO_RP2040_USB_DEVICE_UFRAME_FIX=1"
 				},
 				{
-					"backtrace" : 18,
+					"backtrace" : 13,
 					"define" : "PICO_TARGET_NAME=\"UsbTest\""
 				},
 				{
@@ -1611,7 +1578,7 @@
 					"define" : "PICO_RP2040_USB_DEVICE_UFRAME_FIX=1"
 				},
 				{
-					"backtrace" : 18,
+					"backtrace" : 13,
 					"define" : "PICO_TARGET_NAME=\"UsbTest\""
 				},
 				{
@@ -1924,10 +1891,6 @@
 	],
 	"dependencies" : 
 	[
-		{
-			"backtrace" : 13,
-			"id" : "picotoolBuild::@6890427a1f51a3e7e1df"
-		},
 		{
 			"backtrace" : 5,
 			"id" : "bs2_default_library::@efaae0dfea37ab6992ce"
@@ -2786,12 +2749,12 @@
 	"orderDependencies" : 
 	[
 		{
-			"backtrace" : 15,
-			"id" : "UsbTest::@6890427a1f51a3e7e1df"
+			"backtrace" : 10,
+			"id" : "picotool::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 17,
-			"id" : "picotool::@6890427a1f51a3e7e1df"
+			"backtrace" : 12,
+			"id" : "UsbTest::@6890427a1f51a3e7e1df"
 		}
 	],
 	"paths" : 

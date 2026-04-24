@@ -1,6 +1,4 @@
 C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/UsbTest.dir
-C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/picotoolForceReconfigure.dir
-C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/picotoolBuild.dir
 C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/edit_cache.dir
 C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/CMakeFiles/rebuild_cache.dir
 C:/Users/matts/Desktop/pico/Bird-Removal-System/usbtest/build/pico-sdk/CMakeFiles/edit_cache.dir
